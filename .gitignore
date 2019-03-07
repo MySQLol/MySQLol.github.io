@@ -1,6 +1,0 @@
-# Ignore data/ and tmp/
-data/
-tmp/
-# Ignore for safety
-.htaccess
-.htpasswd
